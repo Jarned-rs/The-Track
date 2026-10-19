@@ -17,5 +17,5 @@ A 3D marble race that will feature tons of obstacles to keep it fun and enjoyabl
 - Funnels!
 
 
-#The Track Itself:
+# The Track Itself:
 <img width="1208" height="1064" alt="image" src="https://github.com/user-attachments/assets/47bd67bc-adb1-4d33-8671-f3b9eea2ee04" />
