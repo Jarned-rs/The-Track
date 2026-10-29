@@ -24,6 +24,7 @@ A 3D marble race that features tons of obstacles to keep it fun and enjoyable!
 
 # BOM
 |Part|Quantity|Price|
+|----------|-----|-------|
 |Printing|1|20.04|
 |Shipping|N/A|5.56|
 
