@@ -28,6 +28,6 @@ A 3D marble race that features tons of obstacles to keep it fun and enjoyable!
 |Printing|1|20.04|
 |Shipping|N/A|5.56|
 
-<img width="1502" height="922" alt="Screenshot 2026-10-29 172331" src="https://github.com/user-attachments/assets/e65c4aaa-881c-44ca-98f2-e355a497ae2e" />
+<img width="751" height="461" alt="Screenshot 2026-10-29 172331" src="https://github.com/user-attachments/assets/e65c4aaa-881c-44ca-98f2-e355a497ae2e" />
 
 (all prices in USD)
