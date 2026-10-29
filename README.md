@@ -1,14 +1,14 @@
 # The-Track
-A 3D marble race that will feature tons of obstacles to keep it fun and enjoyable!
+A 3D marble race that features tons of obstacles to keep it fun and enjoyable!
 
 # Why I made it
 - I wanted the printer obviously
 - Wanted to make something I can gift to my baby brother as a Christmas gift
 
  # How it works:
- - The ball is inserted at the top and it will randomly go either left or right
- - Each track contains different features (mentioned below)
- - They end at the bottom and can be reused!
+ - The ball is inserted at the top
+ - The marble goes down
+ - It ends at the bottom and can be reused!
 
 # Features
 - High speed drops
@@ -18,10 +18,13 @@ A 3D marble race that will feature tons of obstacles to keep it fun and enjoyabl
 
 
 # The Track Itself:
-<img width="1208" height="1064" alt="image" src="https://github.com/user-attachments/assets/47bd67bc-adb1-4d33-8671-f3b9eea2ee04" />
+<img width="1062" height="1160" alt="Screenshot 2026-10-29 172238" src="https://github.com/user-attachments/assets/7e194daa-5763-440f-b8f8-6fd5a87f3221" />
+<img width="1156" height="1161" alt="Screenshot 2026-10-29 172247" src="https://github.com/user-attachments/assets/88125be0-240e-4e12-a934-05cc12feb4e8" />
 
 
 # BOM
-- PCBWay printing - 54.61
-- Shipping - 9.58
-  (note: will adjust to try and be in the budget)
+|Part|Quantity|Price|
+|Printing|1|20.04|
+|Shipping|N/A|5.56|
+
+(all prices in USD)
